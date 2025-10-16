@@ -9,6 +9,8 @@ format: stat133handout-typst
 *Electric vehicles reduce direct emissions, but does the electricity used to charge them actually come from clean sources?\
 *
 
+testing
+
 ### **Datasets Provided**
 
 Go to the Ed post to accept the assignment for Lab4 and clone your repository.
